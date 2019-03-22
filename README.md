@@ -8,5 +8,9 @@ This massage is truth:
 1 ) Appling changes before rebase remotelly.
 
 ## Repository Purpose
+This file is just a readme file.
 
-This file is just a readme file
+
+
+
+
